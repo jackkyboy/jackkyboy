@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jackkyboy.
+- 👋 Hi, I'm Apichet.
 - 👀 Interested in data science
 - 🌱 I'm currently learning how to work with Web3 machines.
 - 💞️ I am looking for knowledge development
